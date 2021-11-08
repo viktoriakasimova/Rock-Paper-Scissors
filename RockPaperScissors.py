@@ -39,5 +39,5 @@ if player_wins > computer_wins:
 elif player_wins < computer_wins:
     print("SORRY, THE COMPUTER WON...")
 else:
-    print("IT'S A TIE")
-print(f"FINAL SCORES... Player: {player_wins} Computer: {computer_wins}")
+    print("IT'S A TIE.")
+print(f"FINAL SCORES... Player: {player_wins} Computer: {computer_wins}.")
